@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ashish Gupta, 
 - 👀 I’m interested in learning new technologies and looking to explore the cloud
-- 🌱 I’m currently learning Python and Angular.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 you can reach me @ashish9889@gmail.com.
 
